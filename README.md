@@ -1,2 +1,2 @@
 # Face_Recognition
-Real Time Face Recogniton using facent
+Real Time Face Recogniton using facenet
